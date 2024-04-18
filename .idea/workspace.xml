@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="801399f8-1779-4468-b8dd-3cc4be776d83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PruebaArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PruebaWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/Manage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pruebaFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
